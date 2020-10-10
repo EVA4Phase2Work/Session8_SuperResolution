@@ -17,11 +17,11 @@ Input Image1:
 
 Input Image2:
 
-![](https://github.com/EVA4Phase2Work/Session8_SuperResolution/blob/main/test_images/output.png)
-
-Output Neural Style Tranfer
-
 ![](https://github.com/EVA4Phase2Work/Session8_SuperResolution/blob/main/test_images/style.png)
+
+Output Neural Style Tranfer:
+
+![](https://github.com/EVA4Phase2Work/Session8_SuperResolution/blob/main/test_images/output.png)
 
 
 
